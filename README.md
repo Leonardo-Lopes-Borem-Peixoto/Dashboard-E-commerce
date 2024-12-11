@@ -2,17 +2,12 @@
 Basic dashboard of a books e-commerce service called Buscante
 
 
-https://github.com/user-attachments/assets/5bf2c30c-a775-460b-be40-87a251b5eaf6
-
-
-
-https://github.com/user-attachments/assets/e452a818-f9f2-48d3-957c-385c7f09d686
 
 
 
 
+![e-commerce_tab](https://github.com/user-attachments/assets/913df2d3-a98b-49c2-9d90-f708dcc1c2bd)
 
 
-
-https://github.com/user-attachments/assets/3e7e48c7-5b51-494c-9bb1-07fb28a2c92e
-
+![sales_tab](https://github.com/user-attachments/assets/0343e0c0-e821-450e-84b2-cfefe51c3e33)
+![Customer_tab](https://github.com/user-attachments/assets/a88cb33f-ee06-46de-a152-68f8359ebc23)
